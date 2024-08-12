@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sachink12578401" target="blank"><img src="https://img.shields.io/twitter/follow/sachink12578401?logo=twitter&style=for-the-badge" alt="sachink12578401" /></a> </p>
 
-- 🔭 I’m currently working on **Mapping GIS application**
+- 🔭 I’m currently working for **LLoyds Banking Group**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
